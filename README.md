@@ -17,9 +17,9 @@ Root repository for the Boaz ADV Session
 
 # TODO list
 
-[ ] Modify the code and dataset
+- [ ] Modify the code and dataset
  - Find the korean sentence model (e.g. snunlp, sentence-klue-roberta-base)
  - Run the sample code and get the embedding size, and modify them (if necessary)
 
-[ ] Run code on GPU
+- [ ] Run code on GPU
  - Colab? Laboratory?
