@@ -16,8 +16,10 @@ Root repository for the Boaz ADV Session
 * Since we are going to use the Korean dataset, we have crawled the articles based on the data provided by [this site](https://factcheck.snu.ac.kr/) about the fake news and the real news.
 
 # TODO list
+
 [ ] Modify the code and dataset
  - Find the korean sentence model (e.g. snunlp, sentence-klue-roberta-base)
  - Run the sample code and get the embedding size, and modify them (if necessary)
+
 [ ] Run code on GPU
  - Colab? Laboratory?
