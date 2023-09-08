@@ -1,9 +1,8 @@
-<h1 align='center'> 팀 뉴진스(Newjeans) </h1>
+<h1 align='center'> 📰 팀 뉴진스(Newjeans) 📰 </h1>
 <h3 align='center'> Multi-modal Fake News Detection 🚨 </h3>
 
-<h4 align='center'>
-
 </h4>
+<h3 align='center'> 2023 BOAZ BIGDATA CONFERENCE </h3>
 <p align="center">
   <img src="https://github.com/okaybody10/Boaz_adv_newjeans/assets/97430653/e929febb-f39f-4984-9f22-46cfda255fe0" width="400px"/>
 </p>
