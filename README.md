@@ -5,7 +5,7 @@
 
 </h4>
 
-<img align='center' src='https://github.com/okaybody10/Boaz_adv_newjeans/assets/97430653/e929febb-f39f-4984-9f22-46cfda255fe0'/>
+<img align='center' src='https://github.com/okaybody10/Boaz_adv_newjeans/assets/97430653/e929febb-f39f-4984-9f22-46cfda255fe0' width="300px;"/>
 
 <h3 align='center'> ✨ 기여자 (Contributors) ✨ </h3>
 
