@@ -5,7 +5,7 @@
 
 </h4>
 <p align="center">
-  <img src="https://github.com/okaybody10/Boaz_adv_newjeans/assets/97430653/e929febb-f39f-4984-9f22-46cfda255fe0" width="300px"/>
+  <img src="https://github.com/okaybody10/Boaz_adv_newjeans/assets/97430653/e929febb-f39f-4984-9f22-46cfda255fe0" width="400px"/>
 </p>
 
 
